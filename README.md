@@ -75,7 +75,7 @@ Firebase · Git · Postman · DBeaver · WordPress
 
 - ✉️ **Correo:** noe.hernandez.dev@gmail.com  
 - 🌐 **Portafolio:** [noe-hernandev.netlify.app](https://noe-hernandev.netlify.app)  
-- 💼 **LinkedIn:** *(https://www.linkedin.com/in/noe-hdz-dev)*  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/noe-hdz-dev  
 
 ---
 
