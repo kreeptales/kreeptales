@@ -71,18 +71,11 @@ Firebase · Git · Postman · DBeaver · WordPress
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noehernandezdev&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noehernandezdev&layout=compact&theme=radical)
-
----
-
 ## 📫 Contacto
 
 - ✉️ **Correo:** noe.hernandez.dev@gmail.com  
 - 🌐 **Portafolio:** [noe-hernandev.netlify.app](https://noe-hernandev.netlify.app)  
-- 💼 **LinkedIn:** *(agrega tu enlace si quieres que lo incluya)*  
+- 💼 **LinkedIn:** *(https://www.linkedin.com/in/noe-hdz-dev)*  
 
 ---
 
