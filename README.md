@@ -1,25 +1,25 @@
-# 👋 ¡Hola, soy Noé Hernández!
+# 👋 Hi, I'm Noé Hernández!
 
-💻 **Desarrollador Web & Mobile** especializado en **React**, **React Native** y **TypeScript**  
+💻 **Web & Mobile Developer** specialized in **React**, **React Native**, and **TypeScript**  
 📍 Santa Ana, El Salvador  
 🌐 [noe-hernandev.netlify.app](https://noe-hernandev.netlify.app)  
 ✉️ noe.hernandez.dev@gmail.com  
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 About Me
 
-Soy desarrollador de aplicaciones **web y móviles** con más de **2 años de experiencia**, creando soluciones que combinan **rendimiento, diseño y funcionalidad**.  
-He trabajado en proyectos que van desde apps de logística y pedidos en tiempo real, hasta sistemas **offline-first** para entornos sin conectividad.
+I'm a **web and mobile application developer** with over **2 years of experience**, building solutions that combine **performance, design, and functionality**.  
+I've worked on projects ranging from real-time logistics and ordering apps to **offline-first systems** for environments with limited connectivity.
 
-Me apasiona construir interfaces limpias, eficientes y centradas en el usuario.  
-Mi filosofía: *“Aprender rápido, adaptarme mejor y entregar siempre valor real al usuario.”*
+I’m passionate about creating clean, efficient, and user-centered interfaces.  
+My philosophy: *“Learn fast, adapt better, and always deliver real value to the user.”*
 
 ---
 
-## 🧩 Habilidades Técnicas
+## 🧩 Technical Skills
 
-**Lenguajes:**  
+**Languages:**  
 TypeScript · JavaScript  
 
 **Frontend & UI:**  
@@ -31,52 +31,52 @@ Jest · React Testing Library · Playwright
 **CI/CD:**  
 GitHub Actions · EAS (Expo Application Services)  
 
-**Backend & Bases de datos:**  
+**Backend & Databases:**  
 Node.js · Express.js · Sequelize · PostgreSQL · SQLite · MySQL  
 
-**Otras herramientas:**  
+**Other Tools:**  
 Firebase · Git · Postman · DBeaver · WordPress  
 
 ---
 
-## 💼 Experiencia Profesional
+## 💼 Professional Experience
 
-### 🧠 Expresate Web (2023 - Actualidad)  
-**Rol:** Desarrollador Frontend  
+### 🧠 Expresate Web (2023 - Present)  
+**Role:** Frontend Developer  
 
-- Desarrollo de aplicaciones web con **React**, **Next.js** y **Astro**.  
-- Creación de apps móviles con **React Native** y **Expo**.  
-- Implementación de soluciones **offline-first** con **SQLite**, sincronización automática y optimización de rendimiento.  
-- Contribución directa a la mejora de procesos de campo y eficiencia operativa.
+- Developed web applications using **React**, **Next.js**, and **Astro**.  
+- Built mobile apps with **React Native** and **Expo**.  
+- Implemented **offline-first** solutions with **SQLite**, automatic synchronization, and performance optimization.  
+- Directly contributed to improving field processes and operational efficiency.
 
 ---
 
-## 🌟 Proyectos Destacados
+## 🌟 Notable Projects
 
 ### 🔹 TrolexSuite
-📱 App Android/iOS para técnicos de control de plagas.  
-**Rol:** Desarrollador Frontend  
-**Impacto:** Diseñé una solución offline-first con base de datos local y sincronización automática, mejorando el trabajo en zonas con poca conectividad.
+📱 Android/iOS app for pest control technicians.  
+**Role:** Frontend Developer  
+**Impact:** Designed an offline-first solution with a local database and automatic sync, improving work in low-connectivity areas.
 
-### 🔹 Buffalo Wings (Usuarios & Drivers)
-🍔 Aplicaciones móviles para pedidos y logística.  
-**Rol:** Desarrollador Frontend  
-**Impacto:** Implementé una interfaz moderna con actualizaciones en tiempo real, mejorando la eficiencia operativa y experiencia del usuario.
-
----
-
-## 🧠 Habilidad Destacada
-
-> ⚡ **Adaptabilidad extrema:** puedo aprender y ejecutar en nuevos stacks y entornos sin comprometer la calidad ni los plazos.
+### 🔹 Buffalo Wings (Users & Drivers)
+🍔 Mobile apps for ordering and logistics.  
+**Role:** Frontend Developer  
+**Impact:** Implemented a modern interface with real-time updates, enhancing operational efficiency and user experience.
 
 ---
 
-## 📫 Contacto
+## 🧠 Key Strength
 
-- ✉️ **Correo:** noe.hernandez.dev@gmail.com  
-- 🌐 **Portafolio:** [noe-hernandev.netlify.app](https://noe-hernandev.netlify.app)  
+> ⚡ **Extreme adaptability:** I can learn and execute in new stacks and environments without compromising quality or deadlines.
+
+---
+
+## 📫 Contact
+
+- ✉️ **Email:** noe.hernandez.dev@gmail.com  
+- 🌐 **Portfolio:** [noe-hernandev.netlify.app](https://noe-hernandev.netlify.app)  
 - 💼 **LinkedIn:** https://www.linkedin.com/in/noe-hdz-dev  
 
 ---
 
-✨ *“Construir, mejorar y aprender: el ciclo que nunca se detiene.”*
+✨ *“Build, improve, and learn: the cycle that never stops.”*
