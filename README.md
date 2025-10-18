@@ -4,7 +4,7 @@
 </h3>
 
 💻 **Web & Mobile Developer** specialized in **React**, **React Native**, and **TypeScript**  
-📍 Santa Ana, El Salvador
+📍 Santa Ana, El Salvador  
 💼 [Linkedin](https://www.linkedin.com/in/noe-hdz-dev)  
 ✉️ noe.hernandez.dev@gmail.com  
 🌐 [noe-hernandev.netlify.app](https://noe-hernandev.netlify.app)  
